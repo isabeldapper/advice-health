@@ -19,3 +19,9 @@ input {
 a {
   text-decoration: none;
 }
+
+
+.selected-row {
+  background-color: #f8f9fa; /* Cor de fundo mais clara */
+  color: #6c757d; /* Cor do texto em cinza */
+}

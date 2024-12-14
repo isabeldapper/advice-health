@@ -1,13 +1,17 @@
-function Header() {
+import React from 'react';
+
+import 'bootstrap/dist/css/bootstrap.min.css'; 
+import 'bootstrap/dist/js/bootstrap.bundle.min.js'; 
+
+const Header = () => {
   return (
     <div>
-      <div className='lass="p-3 mb-3 border-bottom"'>
+      <div className="p-3 mb-3 border-bottom">
         <div className="container">
           <div className="d-flex flex-wrap align-items-center justify-content-between">
             <a href="/" className="d-flex align-items-center my-3 link-body-emphasis">
               <img src="https://advicehealth.com.br/wp-content/uploads/2021/07/logo_advice_150.png" alt="Logo" width="auto" height="42" className="rounded-circle" />
             </a>
-
 
             <div className="dropdown text-end my-3">
               <a href="#" className="d-block link-body-emphasis dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
@@ -23,7 +27,6 @@ function Header() {
             </div>
           </div>
         </div>
-        <div className="border-bottom"></div>
       </div>
     </div>
   );
