@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "notice": "Aviso 1",
+      "date": "12/12/2024",
+      "priority": "Alta",
+      "status": "Ativo",
+      "comments": "Lembrete urgente"
+    },
+    {
+      "id": 2,
+      "notice": "Aviso 2",
+      "date": "13/12/2024",
+      "priority": "Média",
+      "status": "Pendente",
+      "comments": "Necessita revisão"
+    },
+    {
+      "id": 3,
+      "notice": "Aviso 3",
+      "date": "14/12/2024",
+      "priority": "Baixa",
+      "status": "Concluído",
+      "comments": "Necessita acompanhamento após conclusão"
+    },
+    {
+      "id": 4,
+      "notice": "Aviso 4",
+      "date": "15/12/2024",
+      "priority": "Alta",
+      "status": "Ativo",
+      "comments": "Atenção imediata necessária"
+    },
+    {
+      "id": 5,
+      "notice": "Aviso 5",
+      "date": "16/12/2024",
+      "priority": "Média",
+      "status": "Pendente",
+      "comments": "Verificar na próxima semana"
+    },
+    {
+      "id": 6,
+      "notice": "Aviso 6",
+      "date": "17/12/2024",
+      "priority": "Baixa",
+      "status": "Concluído",
+      "comments": "Sem mais ações necessárias"
+    },
+    {
+      "id": 7,
+      "notice": "Aviso 7",
+      "date": "18/12/2024",
+      "priority": "Alta",
+      "status": "Ativo",
+      "comments": "Tarefa de alta prioridade"
+    }
+  ]
+  

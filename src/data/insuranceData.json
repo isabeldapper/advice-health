@@ -1,0 +1,46 @@
+[
+    {
+        "id": 0,
+        "name": "Particular"
+    },
+    {
+        "id": 1,
+        "name": "Unimed"
+    },
+    {
+        "id": 2,
+        "name": "Amil"
+    },
+    {
+        "id": 3,
+        "name": "Bradesco Saúde"
+    },
+    {
+        "id": 4,
+        "name": "SulAmérica"
+    },
+    {
+        "id": 5,
+        "name": "Intermédica"
+    },
+    {
+        "id": 6,
+        "name": "Prevent Senior"
+    },
+    {
+        "id": 7,
+        "name": "Golden Cross"
+    },
+    {
+        "id": 8,
+        "name": "Hapvida"
+    },
+    {
+        "id": 9,
+        "name": "NotreDame Intermédica"
+    },
+    {
+        "id": 10,
+        "name": "Porto Seguro Saúde"
+    }
+]

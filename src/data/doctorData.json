@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Pedro Almeida",
+        "phone": "(11) 98765-4321",
+        "specialty": "Cardiologia"
+    },
+    {
+        "id": 2,
+        "name": "Dra. Fernanda Costa",
+        "phone": "(21) 91234-5678",
+        "specialty": "Dermatologia"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Ricardo Mendes",
+        "phone": "(31) 97654-3210",
+        "specialty": "Ortopedia"
+    },
+    {
+        "id": 4,
+        "name": "Dra. Camila Rocha",
+        "phone": "(41) 98765-1234",
+        "specialty": "Pediatria"
+    },
+    {
+        "id": 5,
+        "name": "Dr. Marcelo Teixeira",
+        "phone": "(51) 92345-6789",
+        "specialty": "Neurologia"
+    }
+]

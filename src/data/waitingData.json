@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "patientName": "João Silva",
+        "phone": "(11) 98765-4321",
+        "insurance": "Unimed",
+        "doctorName": "Dr. Carlos Oliveira"
+    },
+    {
+        "id": 2,
+        "patientName": "Maria Souza",
+        "phone": "(21) 91234-5678",
+        "insurance": "Amil",
+        "doctorName": "Dra. Ana Paula"
+    }
+]

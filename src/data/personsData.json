@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "João Silva",
+        "phone": "(11) 98765-4321",
+        "address": {
+            "street": "Rua das Flores",
+            "number": "123",
+            "complement": "Apto 101",
+            "neighborhood": "Jardim das Rosas",
+            "city": "São Paulo",
+            "state": "SP",
+            "zip": "01234-567"
+        },
+        "document": "123.456.789-00",
+        "birthdate": "1990-05-15",
+        "insurance": "Unimed",
+        "emergencyContact": {
+            "name": "Maria Silva",
+            "relationship": "Esposa",
+            "phone": "(11) 99876-5432"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Ana Pereira",
+        "phone": "(21) 98877-6655",
+        "address": {
+            "street": "Av. Brasil",
+            "number": "456",
+            "complement": "Casa 2",
+            "neighborhood": "Centro",
+            "city": "Rio de Janeiro",
+            "state": "RJ",
+            "zip": "23456-789"
+        },
+        "document": "987.654.321-00",
+        "birthdate": "1985-11-22",
+        "insurance": "Amil",
+        "emergencyContact": {
+            "name": "Carlos Pereira",
+            "relationship": "Irmão",
+            "phone": "(21) 97654-3210"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Lucas Santos",
+        "phone": "(31) 97788-2233",
+        "address": {
+            "street": "Rua das Palmeiras",
+            "number": "789",
+            "complement": "Bloco A, Apto 203",
+            "neighborhood": "Santo Antônio",
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "zip": "34567-890"
+        },
+        "document": "555.444.333-22",
+        "birthdate": "1993-03-01",
+        "insurance": "Particular",
+        "emergencyContact": {
+            "name": "Fernanda Santos",
+            "relationship": "Mãe",
+            "phone": "(31) 92345-6789"
+        }
+    }
+]
