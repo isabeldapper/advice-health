@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Maven Pro';
+}
+
+button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+
+input {
+  outline: none;
+  border: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+/* Table */
+.selected-row {
+  background-color: #f8f9fa; 
+  color: #6c757d; 
+}
+
+.table .column-overflow {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+
+/* Toast */
+.custom-toast {
+  background-color: #75c5c1 !important; 
+  border-radius: 5px; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.custom-toast .toast-body {
+  color: #333; 
+}
+
+/* Modal */
+.responsive-modal .modal-dialog {
+  width: auto;  
+  max-width: 70%;  
+  height: auto; 
+}
+
+.modal-body-custom {
+  max-height: calc(100vh - 200px);  
+  overflow-y: auto;  
+}
+
+.modal-body-custom p {
+  margin-bottom: 1rem;
+}
+
+.waiting-list .table-responsive {
+  max-height: 400px;  
+  overflow-y: auto;  
+}
+
+
+.waiting-list .table-sm {
+  font-size: 0.875rem;  
+}
+
+.waiting-list .table td button i {
+  font-size: 1.2rem;  
+}
+
+@media (max-width: 576px) {
+  .waiting-list .table-sm {
+    font-size: 14px;
+  }
+
+  .waiting-list th, .waiting-list td {
+    padding: 0.5rem;
+  }
+}
+
+/* quick Access */
+.quick-access-button {
+  width: 100px;
+  height: 100px;
+}
